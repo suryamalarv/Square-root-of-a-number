@@ -34,7 +34,7 @@ for _ in range(max):
 print(f"Square root of the number: {new}") 
 ```
 
-## Output:
+
 
 ## Output:
 ![Screenshot 2023-12-15 111650](https://github.com/suryamalarv/Square-root-of-a-number/assets/145742486/81aebba0-f24a-4024-a2d3-40e44382b3a6)
