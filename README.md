@@ -23,6 +23,7 @@ Developed by: suryamalarv
 RegisterNumber:  23013656
 */
 ```
+```
 num=int(input())
 a=1e-6
 max=100
@@ -35,6 +36,7 @@ for _ in range(max):
     guess=new
 print(f"Square root of the number: {new}") 
 ```
+
 
 
 
